@@ -1,4 +1,4 @@
-#Mass Dm By Szordrin6870
+#Mass Dm By Szordrin9999
 import discord
 
 client = discord.Client()
@@ -12,4 +12,4 @@ async def on_connect():
     except:
        print(f"couldnt message: {user.name}")
 
-client.run('Nzg1MTI5MTA1MTA3NTgyOTg2.YYbXHA.waKlLHuHNDdiLMIm96TXGzRWgyA', bot=False)#ADD YOUR TOKEN HERE NOT ANY BOT TOKEN
+client.run('ur discord token', bot=False)#ADD YOUR TOKEN HERE NOT ANY BOT TOKEN
